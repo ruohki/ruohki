@@ -1,7 +1,7 @@
 ### Hi there, I'm Till - aka [ruohki][website] 👋
 
 ## I'm a Husband and Developer!
-- 🔭 I’m currently working on [Lunchpad][website]!
+- 🔭 I’m currently working on [Lunchpad][lunchpad]!
 - 🌱 I’m currently learning everything 🤣
 
 ### Connect with me:

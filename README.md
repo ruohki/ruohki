@@ -18,6 +18,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lunchpad - Convert your config to the new format](https://www.youtube.com/watch?v=3JuxRG15zCQ)
 <!-- YOUTUBE:END -->
 
 ---

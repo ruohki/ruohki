@@ -1,7 +1,7 @@
 ### Hi there, I'm Till - aka [ruohki][website] 👋
 
 ## I'm a Husband and Developer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on [Lunchpad][website]!
 - 🌱 I’m currently learning everything 🤣
 
 ### Connect with me:
@@ -31,6 +31,7 @@
 <img align="left" alt="ruohki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ruohki&show_icons=true&hide_border=true" />
 
 [website]: https://appahead.de
+[lunchpad]: https://github.com/ruohki/lunchpad
 [twitter]: https://twitter.com/tillhuebner
 [youtube]: https://youtube.com/tillmannhuebner
 [instagram]: https://www.instagram.com/tillmannhuebner/
